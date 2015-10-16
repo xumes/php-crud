@@ -7,8 +7,8 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="jumbotron">
-                                <h1>Condomínio Flamboyant</h1>
-                                <p>Área restrita da Administração!</p>
+                                <h1>PHP CRUD</h1>
+                                <p>Restrict area (administration members only)!</p>
                             </div>
                         </div>
                     </div>

@@ -7,7 +7,7 @@
         <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
         <link rel="icon" href="../img/favicon.ico" type="image/x-icon">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Área Administrativa - Condomínio Flamboyant</title>
+        <title>Administration area - PHP CRUD</title>
 
         <!-- Bootstrap -->
         <!-- Latest compiled and minified CSS -->
@@ -47,11 +47,11 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                               </button>
-                              <a class="navbar-brand" href="#">Bem vindo Reginaldo Marcelo dos Santos</a>
+                              <a class="navbar-brand" href="#">Welcome (to be updated by username)</a>
                             </div>
                             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                                 <ul class="nav navbar-nav navbar-right">
-                                    <li><a href="../site/index.php"><i class="fa fa-sign-out"></i> Sair</a></li>
+                                    <li><a href="../site/index.php"><i class="fa fa-sign-out"></i> Exit</a></li>
                                 </ul>
                             </div>
 
@@ -65,13 +65,13 @@
                 <div class="col-md-2">
                     <!--<img src="http://lorempixel.com/output/people-q-c-80-80-5.jpg" class="img-responsive img-thumbnail" id="img-perfil">-->
                     <div class="list-group">
-                      <a class="list-group-item" href="#"><i class="fa fa-home fa-fw"></i>&nbsp; Inicio</a>
-                      <a class="list-group-item" href="./moradores/lista.php"><i class="fa fa-cog  fa-fw"></i>&nbsp; Gerenciar moradores</a>
-                      <a class="list-group-item" href="#"><i class="fa fa-line-chart  fa-fw"></i>&nbsp; Nossos indicadores</a>
-                      <a class="list-group-item" href="#"><i class="fa fa-calendar  fa-fw"></i>&nbsp; Agenda de atividades</a>                      
-                      <a class="list-group-item" href="#"><i class="fa fa-futbol-o  fa-fw"></i>&nbsp; Reserva da quadra</a>
-                      <a class="list-group-item" href="#"><i class="fa fa-commenting-o fa-fw"></i>&nbsp; Fale com o síndico</a>
-                      <a class="list-group-item" href="#"><i class="fa fa-sign-out fa-fw"></i>&nbsp; Sair</a>
+                      <a class="list-group-item" href="#"><i class="fa fa-home fa-fw"></i>&nbsp; Home</a>
+                      <a class="list-group-item" href="./moradores/lista.php"><i class="fa fa-cog  fa-fw"></i>&nbsp; Manage users</a>
+                      <a class="list-group-item" href="#"><i class="fa fa-line-chart  fa-fw"></i>&nbsp; Cockpit</a>
+                      <a class="list-group-item" href="#"><i class="fa fa-calendar  fa-fw"></i>&nbsp; Events schedule</a>                      
+                      <a class="list-group-item" href="#"><i class="fa fa-futbol-o  fa-fw"></i>&nbsp; Book an area</a>
+                      <a class="list-group-item" href="#"><i class="fa fa-commenting-o fa-fw"></i>&nbsp; Talk to the major</a>
+                      <a class="list-group-item" href="#"><i class="fa fa-sign-out fa-fw"></i>&nbsp; Exit</a>
                     </div>
 
 

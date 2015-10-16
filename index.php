@@ -15,7 +15,7 @@
         <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
         <link rel="icon" href="../img/favicon.ico" type="image/x-icon">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Condomínio Residencial Jardim Flamboyant</title>
+        <title>PHP CRUD</title>
 
         <!-- Bootstrap -->
         <!-- Latest compiled and minified CSS -->
@@ -60,9 +60,9 @@
                             <div class="collapse navbar-collapse">
                                 <ul class="nav navbar-nav navbar-right">
                                     <li class="dropdown">
-                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="fa fa-user"></i> Entrar <span class="caret"></span></a>
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="fa fa-user"></i> Login <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
-                                            <form class="navbar-form" action = "../restrito/index.php" role="login">
+                                            <form class="navbar-form" action = "../admin/index.php" role="login">
                                                 <li>
                                                     <div class="form-group input-group-sm">
                                                         <label>E-mail:</label>
@@ -91,9 +91,9 @@
                 <div class="col-md-2">
 
 				    <div class="btn-group-vertical">
-					    <a href="site/index.php" class="btn btn-default">Site institucional</a>
-					    <a href="restrito/index.php" class="btn btn-primary">Área restrita dos moradores</a>
-					    <a href="admin/index.php" class="btn btn-success">Área da Administração</a>
+					    <a href="#" class="btn btn-default">Public website</a>
+					    <a href="#" class="btn btn-primary">Restrict to users</a>
+					    <a href="admin/index.php" class="btn btn-success">Administration area</a>
 					    
 					</div>
 				</div>
@@ -103,9 +103,9 @@
                 <div class="col-md-10">
                    
                             <div class="jumbotron">
-                                <h1>Marlon, leia por favor</h1>
-                                <p>Este site será o meu projeto final, e será realmente colocado em produção no condomínio onde eu moro</p>
-                                <p>Para fins de validação, por favor, acesse apenas a Área da Administração</p>
+                                <h1>PHP CRUD</h1>
+                                <p>The purpose os this website is to give you all CRUD (Create, Read, Update and Delete) features of an PHP website using PDO.</p>
+                                <p>Only the Administration area exists on this module. Other modules are part of other projects deployed or not (yet) into my Github account.</p>
                             </div>
 
                 </div>

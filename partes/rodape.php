@@ -6,7 +6,7 @@
     </body>
     <footer>
         <hr>
-        <p>Feito por: Reginaldo Santos <i class="fa fa-copyright"></i> - Este site foi criado para fins de aprendizado apenas.</p>
+        <p>Created by: Reginaldo Santos (Xumes)<i class="fa fa-copyright"></i> - This website is for educational purpose only.</p>
     </footer>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
